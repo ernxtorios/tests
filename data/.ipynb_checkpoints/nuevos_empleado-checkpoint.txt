@@ -1,6 +1,0 @@
-Karina,20
-Herminio,33
-Zenaida,21
-Jessica,30
-Gloria,29
-Nancy,22

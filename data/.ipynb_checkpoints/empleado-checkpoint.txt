@@ -1,5 +1,0 @@
-Rosa,50
-Pedro,60
-Raul,56
-Maria,35
-Manuel,28
